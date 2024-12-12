@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "EasyAbp.FileManagement.DemoApp": {
+    "EasyAbp.FileManagement.Web.Unified": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:44388",
